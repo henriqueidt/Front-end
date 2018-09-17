@@ -1,0 +1,30 @@
+div.content{ 
+	background: #FFBF00; 
+	margin: 5px;
+}
+
+div#header{
+	height: 75px;
+	width: 530px;
+}
+div#nav{
+	height: 300px;
+	width: 110px;
+	float: left;
+}
+div#article{
+	height: 300px;
+	width: 300px;
+	float: left;
+}
+div#ads{
+	height: 300px;
+	width: 100px;
+	float: left;
+	margin-bottom: 10px;
+}
+div#footer{
+	height: 75px;
+	width: 530px;
+	clear: left;
+}

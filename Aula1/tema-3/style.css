@@ -1,0 +1,66 @@
+div#sitename{
+	background: #B40404;
+	height: 150px;
+	width: 900px;
+	text-align: left;
+	font-size: 3.4em;
+	vertical-align: middle;
+	line-height: 150px;
+}
+
+div.link{
+	float: left;
+	background: #2E2EFE;
+	height: 75px;
+	width: 50px;
+	text-align: center;
+	color: #fff;
+	font-size: 1.2em;
+	vertical-align: middle;
+	line-height: 75px;
+}
+
+div#endoflink{
+	width: 600px;
+	margin-bottom: 30px;
+}
+
+div.title{
+	clear: both;
+	font-size: 2.0em;
+	margin: 30px;
+}
+
+div.box{
+	position: absolute;
+	top: 270px;
+	left: 740px;
+	width: 160px;
+	height: 260px;
+	border: 2px solid #000;
+	font-size: 1.5em;
+}
+
+div.paragraph{
+	width: 700px;
+	clear: both
+}
+
+ul.a {
+	list-style-type: circle;
+	position: absolute;
+	top: 290px;
+	left: 740px;
+	font-size: 1.0em;
+}
+
+div.copyright{
+	margin-top: 20px;
+	background: #bfbfbf;
+	color: #fff;
+	width: 900px;
+	height: 50px;
+	vertical-align: middle;
+	line-height: 50px;
+}
+
